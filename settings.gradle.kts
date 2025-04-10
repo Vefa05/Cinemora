@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Letterboxie"
+rootProject.name = "Cinemora"
 include(":app")
  
